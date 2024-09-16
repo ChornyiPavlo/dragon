@@ -3,5 +3,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pin-up.carforestracing.click/sitemap.xml
-Host: pin-up.carforestracing.click
+Sitemap: http://dragonfighting.click /sitemap.xml
+Host: dragonfighting.click
