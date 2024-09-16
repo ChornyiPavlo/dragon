@@ -3,5 +3,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pinup.dragonfighting.click /sitemap.xml
+Sitemap: http://pinup.dragonfighting.click/sitemap.xml
 Host: pinup.dragonfighting.click
